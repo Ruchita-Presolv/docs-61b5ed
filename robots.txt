@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ruchita-Presolv.github.io/docs-61b5ed/sitemap.xml
